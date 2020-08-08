@@ -1,0 +1,2 @@
+Horiseon, a social media marketing company has hired me to refactor their webpage to include accessibility functions. I also reviewed the code to ensure the proper HTML semantic elements were being used throughout the code. I included notation throughout the code where I made any changes or declarations of elements. I reviewed the website after making my edits to ensure that all pre-edit functions still worked and that any new functions worked the way they were intended.
+-C. Henderson
